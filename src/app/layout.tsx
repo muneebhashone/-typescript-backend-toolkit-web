@@ -20,11 +20,25 @@ export const metadata: Metadata = {
   title: "TypeScript Backend Toolkit",
   description: "A powerful backend toolkit designed for scalability and flexibility. Equipped with modern technologies and best practices, it's the perfect starting point for your next backend project.",
   openGraph: {
+    images: [
+      {
+        url: "/ts-toolkit-main.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
     title: "TypeScript Backend Toolkit",
     description: "A powerful backend toolkit designed for scalability and flexibility. Equipped with modern technologies and best practices.",
     type: "website",
   },
   twitter: {
+    images: [
+      {
+        url: "/ts-toolkit-main.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
     card: "summary_large_image",
     title: "TypeScript Backend Toolkit",
     description: "A powerful backend toolkit designed for scalability and flexibility.",
